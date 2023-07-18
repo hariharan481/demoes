@@ -1,0 +1,56 @@
+.indexpage{
+    height: 590px;
+ width: 57.3%;
+    display: flex;
+   
+border: 0.5px solid grey;
+}
+
+.indexbutton{
+    text-align: center;
+    margin-top: -30px;
+    width: 100px;
+     position: absolute;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+text-transform: lowercase;
+    background-color:#90B2D8 ;
+
+}
+.IndexTablecontainer{
+    position: "absolute";
+            margin-top: 26%; 
+}
+.neoplasmbut{
+
+    text-align: center;
+    margin-top: -30px;
+    width: "100px";
+    position: "absolute";
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+  text-transform: lowercase;
+      background-color:#90B2D8 ;
+   margin-left: 100px;
+}
+.Drugbut{
+
+
+    text-align: center;
+    margin-top: -30px;
+    width: "100px";
+    position: "absolute";
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+  text-transform: lowercase;
+      background-color:#90B2D8 ;
+   margin-left: 200px;
+
+}
+.drugcontainer{
+   position:absolute;
+
+margin-top: 4%;
+
+}  
+    
